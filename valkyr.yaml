@@ -1,0 +1,4 @@
+product: core-paas
+component: sumologic-provider
+
+strategy: docker

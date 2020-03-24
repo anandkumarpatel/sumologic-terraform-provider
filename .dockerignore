@@ -1,0 +1,9 @@
+.gocache
+helm/**
+.vscode
+core-paas-sumologic-provider*
+Dockerfile
+valkyr.yaml
+.git
+.git/**
+vendor
